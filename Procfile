@@ -1,1 +1,1 @@
-web: python server.py
+web: python editorcm17B.py
